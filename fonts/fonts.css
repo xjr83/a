@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'adelle';
+    src: url('adelle-light-web.eot');
+    src: url('adelle-light-web.eot?#iefix') format('embedded-opentype'),
+         url('adelle-light-web.woff2') format('woff2'),
+         url('adelle-light-web.woff') format('woff'),
+         url('adelle-light-web.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'adelle';
+    src: url('adelle-regular-web.eot');
+    src: url('adelle-regular-web.eot?#iefix') format('embedded-opentype'),
+         url('adelle-regular-web.woff2') format('woff2'),
+         url('adelle-regular-web.woff') format('woff'),
+         url('adelle-regular-web.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+
+}
